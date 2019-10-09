@@ -87,7 +87,7 @@ After you filled in the template it can now be published on https://tronscan.org
 
 Checkout the [Pages](/pages) directory for the translation readme
 
-## FAQ
+## FA
 
 * __I've modified a file but the changes aren't visible on tronscan.org?__  
   Contents from the repository are served using the Github CDN which uses aggressive caching. It may take a few minutes before the changes are reflected on tronscan.org.
